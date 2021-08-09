@@ -4,7 +4,7 @@
 
 1. A screenshot of the accounts you created (`account list`) in `ckb-cli`.
 
-   ![0.1](./p_1_1.png)
+   ![1.1](./p_1_1.png)
 
 2. A link to the Layer 1 address you funded on the [Testnet Explorer](https://explorer.nervos.org/aggron/).
 
@@ -12,4 +12,4 @@
 
 3. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
 
-   ![0.1](./p_1_3.png)
+   ![1.3](./p_1_3.png)
