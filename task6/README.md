@@ -1,6 +1,6 @@
 # Nervos赏金
 
-#### Gitcoin: 5) Deploy The ERC20 Proxy Contract For The Deposited SUDT
+#### Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
 
 1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
 
